@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #aee2ff;
+}
+
+#clock {
+  margin-top: 200px;
+  padding: 120px;
+  border: 1px solid black;
+  border-radius: 50px;
+  box-shadow: 10px 10px #9fa1ff;
+  font-size: 50px;
+  background: #d9f9df;
+}
