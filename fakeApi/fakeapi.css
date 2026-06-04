@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #903f3f;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+#userChoice {
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+#verify {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+#text {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #fff;
+}
